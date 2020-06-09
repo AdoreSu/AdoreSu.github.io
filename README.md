@@ -6,4 +6,8 @@
   很高兴见到您  
   祝您，早上好，中午好，下午好，晚安  
 
-thank ‘you’
+thank `you` for my love
+
+* 昵称：果冻虾仁  
+* 别名：隔壁老王  
+* 英文名：Jelly  
